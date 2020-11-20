@@ -1,7 +1,6 @@
 # wlo-metadata-mappings
 
-This repo provides two helper scripts to map WLO [Sachgebietsystematiken] 
-(https://github.com/openeduhub/oeh-metadata-eaf-sachgebietssystematiken) to Wikipedia articles.
+This repo provides two helper scripts to map WLO [Sachgebietsystematiken](https://github.com/openeduhub/oeh-metadata-eaf-sachgebietssystematiken) to Wikipedia articles.
 
 The first script `mapSachgebietLabels.py` extracts labels from the provided TTL file and maps these labels to Wikipedia. Therefore it uses our [entity linking tool](https://github.com/yovisto/kea-el-rest) as service. 
 
