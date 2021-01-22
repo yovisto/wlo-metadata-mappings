@@ -27,9 +27,9 @@ After revision and correction of the output file, the second script `createKeywo
 
 ## Wikipedia Normdata
 
-The directory ```normdata``` contains a script to convert the extracted normdata from the [kea-wiki-extraction](https://github.com/yovisto/kea-wiki-extraction) tool in an RDF form.
+The directory ```normdata``` contains a script to convert the normdata extracted with the [kea-wiki-extraction](https://github.com/yovisto/kea-wiki-extraction) tool in RDF.
 
-Therefor you need to copy the ```normdata.txt``` file from [kea-wiki-extraction](https://github.com/yovisto/kea-wiki-extraction) to this directory an the execute the Python script ```createNormdataTTL.py```. 
+Therefore you need to copy the ```normdata.txt``` file from [kea-wiki-extraction](https://github.com/yovisto/kea-wiki-extraction) to this directory and run the Python script ```createNormdataTTL.py```. 
 
-An example result has been provided in the file ```normdata.ttl.zip``` (extracted as of 07. Dec. 2020)
+An example result has been provided in ```normdata.ttl.zip``` (extracted as of 07. Dec. 2020)
 
